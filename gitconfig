@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sebastien.dellis@gmail.com
+	name = sebastien dellis
